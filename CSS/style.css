@@ -1,0 +1,28 @@
+body {
+  background-color: aliceblue;
+}
+h1 {
+  font-size: 80px;
+  font-weight: 100;
+  color: darkgoldenrod;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+a {
+  display: block;
+  font-size: 40px;
+  font-weight: 100;
+  color: darkblue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+p {
+  font-size: 40px;
+  font-weight: 100;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+img {
+  height: auto;
+  width: 100%;
+}
